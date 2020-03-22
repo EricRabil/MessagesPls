@@ -1,0 +1,9 @@
+Package: com.ericrabil.messagespls
+Name: MessagesPls
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Messages please just work normally
+Maintainer: Eric Rabil <ericjrabil@gmail.com>
+Author: Eric Rabil <ericjrabil@gmail.com>
+Section: Tweaks
